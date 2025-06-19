@@ -3,6 +3,7 @@ The main purpose of the app is to allow users to make their own unique playlists
 
 Main Screen
 ![Screenshot 2025-06-19 113358](https://github.com/user-attachments/assets/416eae91-5e93-49f8-b544-58ea6ef6abb9)
+
 The main screen has a button that when clicked it tell you to enter the details of the song and a button that lets you move on to the next screen and an exit button which closes the app
 
 Detailed View Screen
